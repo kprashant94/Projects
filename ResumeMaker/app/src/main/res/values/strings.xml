@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Resume Maker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_profile">Profile</string>
+    <string name="title_activity_pdfviewer">pdfviewer</string>
+    <string name="title_activity_check">check</string>
+    <string name="title_activity_edu_info">EduInfo</string>
+    <string name="title_activity_skills">Skills</string>
+    <string name="title_activity_responsibilities">Responsibilities</string>
+    <string name="title_activity_relevant_courses">RelevantCourses</string>
+    <string name="title_activity_hobbies">Hobbies</string>
+    <string name="title_activity_manage">Manage</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_project1">Project1</string>
+    <string name="title_activity_objective">Objective</string>
+
+    <string name="new_game_title">Choose</string>
+    <array name="difficulty">
+        <item name="edit">Edit</item>
+        <item name="preview">Preview</item>
+        <item name="delete">Delete</item>
+        <item name="mail">Share</item>
+    </array>
+    <string name="title_activity_test">test</string>
+
+</resources>
